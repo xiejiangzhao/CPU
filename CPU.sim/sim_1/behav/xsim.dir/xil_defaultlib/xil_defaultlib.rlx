@@ -1,0 +1,14 @@
+0.2
+2016.1
+E:/CPU/CPU.sim/sim_1/behav/glbl.v,1460148552,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sim_1/new/SIMUTEST.v,1511275699,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sources_1/new/ALU.v,1511251244,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sources_1/new/Control_unit.v,1511276250,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sources_1/new/DataMEM.v,1511274513,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sources_1/new/Extend.v,1511065909,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sources_1/new/InsMEM.v,1511100810,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sources_1/new/PC.v,1511055501,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sources_1/new/PC_Control.v,1511267352,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sources_1/new/Register.v,1511246313,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sources_1/new/Select_32.v,1511054777,verilog,,,,,,,,,
+E:/CPU/CPU.srcs/sources_1/new/Select_5.v,1511105408,verilog,,,,,,,,,
