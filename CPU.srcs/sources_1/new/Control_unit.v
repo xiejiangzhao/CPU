@@ -38,7 +38,7 @@ module Control_unit(
     output reg RD 
     );
      reg i_add,i_addi,i_sub,i_ori,i_and,i_or,i_sll,i_slt,i_sw,i_lw,i_beq,i_bne,i_bgtz,i_j,i_halt;
-    always@(command or zero)
+    always@(command or zero or sign)
         begin
             if(command==6'b000000)
                 begin

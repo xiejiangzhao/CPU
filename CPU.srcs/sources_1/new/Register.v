@@ -38,7 +38,10 @@ module RegisterFile(
     always@(negedge CLK or negedge RST)
         begin
             if (RST==0) 
-                    ;
+                begin
+                    for(i=0;i<32;i=i+1)
+                          register[i]=0;
+                end
             else if(WE!=0)
                 begin
                     register[RegWre]<=DataWre;
